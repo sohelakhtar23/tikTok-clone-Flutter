@@ -1,16 +1,46 @@
-# tiktok_clone
+# TikTok Clone
 
-A new Flutter project.
+TikTok App that works on Android & iOS!
+<br>Get the app from the link below<br>
+https://drive.google.com/file/d/1yAso1YnsyeU0ZNA0ttIW3l08x04K6jYg/view?usp=sharing
 
-## Getting Started
+## Tech Used
 
-This project is a starting point for a Flutter application.
+<b>Flutter</b>, Firebase Auth, Firestore, Firebase Storage, GetX
 
-A few resources to get you started if this is your first Flutter project:
+**Architecture:** MVC
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots 
+<p float="left">
+  <img src= "screenshots/1.jpg" height="400px">
+  <img src= "screenshots/2.jpg" height="400px">
+  <img src= "screenshots/3.jpg" height="400px">
+  <img src= "screenshots/4.jpg" height="400px">
+</p>
+
+
+## Features
+- TikTok Like UI
+- Authentication with Email & Password
+- Uploading Videos with Caption
+- Compressing Videos
+- Generating Thumbnails Out of Video
+- Displaying Videos with Caption
+- Liking on Posts
+- Commenting on Posts
+- Liking the Comments
+- Searching Users
+- Following Users
+- Displaying Followers, Following, Likes & Posts of User
+
+
+#### Special Thanks => Rivaan
+
+
+
+<!-- ![picture alt](screenshots/1.jpg?raw=true200x150 "Img1") -->
+
+
+
